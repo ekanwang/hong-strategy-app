@@ -1,5 +1,5 @@
 streamlit
+streamlit-autorefresh
 akshare
 yfinance
 pandas
-streamlit-autorefresh
